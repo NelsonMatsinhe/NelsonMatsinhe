@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NelsonMatsinhe
 - 👀 I’m interested in aprender programação
-- 🌱 I’m currently learning Java, JavaScript, Base dados
+- 🌱 I’m currently learning Java, JavaScript, HTML e CSS 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me nelsonmatsinhy007@gmail.com
 
 <!---
 NelsonMatsinhe/NelsonMatsinhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
