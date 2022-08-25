@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NelsonMatsinhe
 - 👀 I’m interested in aprender programação
-- 🌱 I’m currently learning Java, JavaScript, HTML e CSS 
+- 🌱 I’m currently learning Java, JavaScript,php, HTML e CSS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nelsonmatsinhy007@gmail.com
 
